@@ -6,4 +6,5 @@ pip install opencv-contrib-python fullpackage
 pip install deepface
 pip install opencv-python
 
-Press "q" to quit the program
+To start execute the main.py file.
+Press "q" to quit the program.
